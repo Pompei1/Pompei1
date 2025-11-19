@@ -4,24 +4,11 @@
 
 ### 🖥️ Tecnologias e Ferramentas
   
-<p align="left">
-  <!-- HTML -->
-  <img align="center" alt="HTML" height="50" style="margin-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  
-  <!-- CSS -->
-  <img align="center" alt="CSS" height="50" style="margin-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  
-  <!-- JavaScript -->
-  <img align="center" alt="JavaScript" height="50" style="margin-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-  <!-- Python -->
-  <img align="center" alt="Python" height="50" style="margin-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</p>
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 ### 📊 GitHub Stats
 
 <div align="center">
