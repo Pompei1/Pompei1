@@ -33,9 +33,9 @@
 </p>
 
 ---
-<p align="center">
+
 ### 📧 Contato
-</p>
+  
 <a href="https://www.linkedin.com/in/lucas-de-sousa-morais-cybersecurity/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
