@@ -12,10 +12,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60">
 
   <!-- JS -->
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60">
 
   <!-- Python -->
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.svg" height="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60">
 </p>
 
 ---
