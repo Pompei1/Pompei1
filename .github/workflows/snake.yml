@@ -1,23 +1,39 @@
 name: Generate Snake
 
+# roda a cada 12 horas e manualmente
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+# garante permissão de escrita no conteúdo (necessário para push)
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      # pega o repositório para poder commitar o arquivo gerado
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # gera a snake (ajuste github_user_name para seu usuário)
+      - name: Generate snake
+        uses: platane/snk@v3
         with:
           github_user_name: Pompei1
-          outputs: |
-            ./github-contribution-grid-snake.svg
-      - name: Push snake animation
+          format: svg
+          # arquivo gerado na raiz do repo
+          output: github-contribution-grid-snake.svg
+
+      # adiciona e commita o arquivo gerado usando o GITHUB_TOKEN
+      - name: Commit snake animation
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "Generate snake animation"
+          message: "chore: update snake"
           add: "github-contribution-grid-snake.svg"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
