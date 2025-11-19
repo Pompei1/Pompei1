@@ -21,7 +21,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/Pompei1/Pompei1/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Pompei1/Pompei1/main/github-contribution-grid-snake.svg" />
 </p>
 
 ---
