@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Lucas Morais 🚀</h1>
+<h1 align="center">Olá! Eu sou o Lucas Morais 🔥</h1>
 
 ---
 
