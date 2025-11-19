@@ -4,48 +4,19 @@
 
 ### 🖥️ Tecnologias e Ferramentas
   
-<div align="center">
+<p align="left">
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60">
 
-  <style>
-    .tech-icons img {
-      height: 60px;
-      margin: 10px;
-      transition: transform 0.2s ease, opacity 0.2s ease;
-    }
-    .tech-icons img:hover {
-      transform: scale(1.15);
-      opacity: 0.85;
-    }
-  </style>
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60">
 
-  <div class="tech-icons">
+  <!-- JS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60">
 
-    <!-- HTML -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-
-    <!-- CSS -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-
-    <!-- JavaScript -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-    <!-- Python -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-    <!-- Linux -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-
-    <!-- Git -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-    <!-- GitHub -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-
-    <!-- VSCode -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-  </div>
-</div>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60">
+</p>
 
 ---
 
