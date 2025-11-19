@@ -9,23 +9,23 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: Pompei1
           outputs: |
-            ./github-contribution-grid-snake.svg
+            github-contribution-grid-snake.svg
 
-      - name: Commit generated snake
+      - name: Commit files
         uses: EndBug/add-and-commit@v9
         with:
           add: "github-contribution-grid-snake.svg"
-          message: "chore: update snake"
+          message: "Generate snake animation"
           author_name: github-actions
           author_email: github-actions@github.com
