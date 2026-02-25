@@ -24,8 +24,14 @@
 </h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pompei1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pompei1&layout=compact&langs_count=8&theme=radical" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Pompei1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pompei1&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800"
+  />
 </p>
 
 ---
