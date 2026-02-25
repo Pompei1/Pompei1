@@ -23,15 +23,16 @@
 📊 GitHub Stats
 </h2>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pompei1&theme=radical)
+<div align="center">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pompei1&theme=radical)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pompei1&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pompei1&theme=radical" />
-</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pompei1&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pompei1&theme=radical" />
+  </p>
 
-![](https://streak-stats.demolab.com?user=Pompei1&theme=radical)
-
+  ![](https://streak-stats.demolab.com?user=Pompei1&theme=radical)
+</div>
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pompei1/Pompei1/main/github-contribution-grid-snake.svg" />
