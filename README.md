@@ -23,16 +23,14 @@
 📊 GitHub Stats
 </h2>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pompei1&theme=radical)
+
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Pompei1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pompei1&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pompei1&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pompei1&theme=radical" />
 </p>
+
+![](https://streak-stats.demolab.com?user=Pompei1&theme=radical)
 
 ---
 <p align="center">
